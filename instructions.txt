@@ -1,0 +1,24 @@
+public static AddHeading (this string letter, DateTime date, string place) {
+    //Jonathan Nieves
+}
+public static AddGreeting (this string letter, name) {
+    //Kelvin Lopez
+}
+public static AddBody (this string letter, string text) {
+    //Mario Cancel
+}
+public static AddPosdata (this string letter, string text) {
+    //Angel Vazquez
+}
+public static AddFarewell (this string letter, string text) {
+    //Edgardo Perez
+}
+public static AddSignature (this string letter, string name) {
+    //Xiomara Correa
+}
+public static AddReferences (this string letter, string text) {
+    //Jonathan Candelaria
+}
+public static AddSentDate (this string letter, DateTime date) {
+    //Karim Angueira
+}

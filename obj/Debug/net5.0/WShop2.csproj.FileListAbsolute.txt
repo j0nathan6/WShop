@@ -1,0 +1,16 @@
+C:\users\jonathan\documents\RSM\Workshops\WShop2\bin\Debug\net5.0\WShop2.exe
+C:\users\jonathan\documents\RSM\Workshops\WShop2\bin\Debug\net5.0\WShop2.deps.json
+C:\users\jonathan\documents\RSM\Workshops\WShop2\bin\Debug\net5.0\WShop2.runtimeconfig.json
+C:\users\jonathan\documents\RSM\Workshops\WShop2\bin\Debug\net5.0\WShop2.runtimeconfig.dev.json
+C:\users\jonathan\documents\RSM\Workshops\WShop2\bin\Debug\net5.0\WShop2.dll
+C:\users\jonathan\documents\RSM\Workshops\WShop2\bin\Debug\net5.0\ref\WShop2.dll
+C:\users\jonathan\documents\RSM\Workshops\WShop2\bin\Debug\net5.0\WShop2.pdb
+C:\users\jonathan\documents\RSM\Workshops\WShop2\obj\Debug\net5.0\WShop2.csproj.AssemblyReference.cache
+C:\users\jonathan\documents\RSM\Workshops\WShop2\obj\Debug\net5.0\WShop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\jonathan\documents\RSM\Workshops\WShop2\obj\Debug\net5.0\WShop2.AssemblyInfoInputs.cache
+C:\users\jonathan\documents\RSM\Workshops\WShop2\obj\Debug\net5.0\WShop2.AssemblyInfo.cs
+C:\users\jonathan\documents\RSM\Workshops\WShop2\obj\Debug\net5.0\WShop2.csproj.CoreCompileInputs.cache
+C:\users\jonathan\documents\RSM\Workshops\WShop2\obj\Debug\net5.0\WShop2.dll
+C:\users\jonathan\documents\RSM\Workshops\WShop2\obj\Debug\net5.0\ref\WShop2.dll
+C:\users\jonathan\documents\RSM\Workshops\WShop2\obj\Debug\net5.0\WShop2.pdb
+C:\users\jonathan\documents\RSM\Workshops\WShop2\obj\Debug\net5.0\WShop2.genruntimeconfig.cache
